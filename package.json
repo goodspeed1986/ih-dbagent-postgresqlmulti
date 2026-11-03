@@ -1,0 +1,16 @@
+{
+  "name": "ih-dbagent-postgresql",
+  "version": "5.0.0",
+  "description": "Dbagent for PostgreSql multi connection",
+  "main": "dbagent.js",
+  "dependencies": {
+    "node-schedule": "^1.3.2",
+    "postgres": "^3.4.8"
+  },
+  "devDependencies": {
+    "mocha": "^11.7.5",
+    "should": "^13.2.3"
+  },
+  "author": "INTRA",
+  "license": "MIT"
+}

@@ -1,0 +1,7 @@
+{
+    "id":"postgresqlmulti",
+    "description":"Dbagent for PostgreSql Multi connection",
+    "cross":true,
+    "configfile":1, 
+    "version":"5.18.3"
+}
